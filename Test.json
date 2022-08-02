@@ -1,7 +1,3 @@
-{
-    "test": [
-        "name",
-        "file",
-        "test3"
-    ]
-}
+test: true,
+ban: false,
+qq: wwwww
